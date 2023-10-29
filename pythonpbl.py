@@ -7,7 +7,7 @@ root.title("Quadratic Equation Solver...")
 stva = StringVar()
 
 #Variable to store roots
-vtsd = 0
+vtsr = 0
 
 # Taking the coefficients of the Quadratic Equation
 st1 = Label(root, text="Enter the values of the Coefficients of the Quadratic Equation")
